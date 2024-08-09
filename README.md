@@ -1,7 +1,7 @@
-user = dummyuser
+username = dummyuser
 password = password123
 
-![demo](https://github.com/user-attachments/assets/55f4ee04-a41e-422f-8e04-8093115adf49)
+![cdemo](https://github.com/user-attachments/assets/19c81d30-1890-4370-827d-71cf5f6c04d3)
 
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
