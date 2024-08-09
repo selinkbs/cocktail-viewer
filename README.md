@@ -1,6 +1,9 @@
 user = dummyuser
 password = password123
 
+![cocktaildemo](https://github.com/user-attachments/assets/24e68c80-a330-40e1-bb72-effee93c00e4)
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
